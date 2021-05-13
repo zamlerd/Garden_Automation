@@ -12,7 +12,7 @@ from datetime import timedelta
 
 pd.options.display.max_rows = 4000
 
-DARK_SKY_API_KEY = "d454972c660883d388eef33bbd507b05"
+DARK_SKY_API_KEY = "Your_Key_Here"
 option_list = "exclude=currently,minutely,hourly,alerts&amp;units=si"
 
 
