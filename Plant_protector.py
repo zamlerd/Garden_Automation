@@ -13,7 +13,7 @@ import requests, json, csv
 import pandas as pd
   
 # Enter your API key here 
-api_key = "da2ef94ca1c7f76a4dee352a372cef81"
+api_key = "your_key_here"
   
 # base_url variable to store url 
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
